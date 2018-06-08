@@ -1,0 +1,5 @@
+<!--components/topbar/topBar.wxml-->
+<view class='topBar'>
+   <view>topBar.wxml</view>
+  <slot></slot>  
+</view>

@@ -1,0 +1,4 @@
+<view class="container">
+  <ms-TopBar>
+  </ms-TopBar>
+</view>

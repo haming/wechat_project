@@ -1,0 +1,5 @@
+{
+  "usingComponents":{
+    "ms-TopBar":"/components/topbar/topBar"
+  }
+}

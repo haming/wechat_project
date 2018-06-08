@@ -1,0 +1,8 @@
+/* components/topbar/topBar.wxss */
+.topBar{
+  width: 100%;
+  background-color:blanchedalmond;
+  color:white;
+  text-align: center;
+  padding: 5px 0
+}
