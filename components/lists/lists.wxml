@@ -1,4 +1,4 @@
 <!--components/lists/lists.wxml-->
 <view class='topBar'>
-    
+    <div class='test'>123</div>
 </view>

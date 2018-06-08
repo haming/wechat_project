@@ -1,5 +1,6 @@
 {
   "usingComponents":{
-    "ms-TopBar":"/components/topbar/topBar"
+    "ms-TopBar":"/components/topbar/topBar",
+    "ms-lists": "/components/lists/lists"
   }
 }

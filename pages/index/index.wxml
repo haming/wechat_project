@@ -1,4 +1,5 @@
 <view class="container">
   <ms-TopBar>
   </ms-TopBar>
+  <ms-lists></ms-lists>
 </view>

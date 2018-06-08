@@ -1,4 +1,8 @@
 wx.createCanvas
+wx.showNavigationBarLoading()
+wx.setNavigationBarTitle({
+  title: '当前页面'
+})
 
 Page({
   clickMe: function () {
