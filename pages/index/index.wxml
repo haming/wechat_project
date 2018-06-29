@@ -1,5 +1,7 @@
 <view class="container">
-  <ms-TopBar>
-  </ms-TopBar>
-  <ms-lists></ms-lists>
+    <ms-TopBar bind:listsClick="testClick"></ms-TopBar>
+
+    <view>{{testData}}</view>
+
+    <ms-lists prop-a="asd" prop-b="{{dataList}}" bind:listsClicks="testClick2"></ms-lists>
 </view>

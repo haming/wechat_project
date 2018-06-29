@@ -1,4 +1,10 @@
 <!--components/lists/lists.wxml-->
 <view class='topBar'>
-    <div class='test'>123</div>
+    <view wx:for="{{propB}}" > 
+      {{index+1}}-:-{{item.name}}
+    <!-- <image src='./1.png'></image> -->
+      
+    </view> 
+    <view>{{propA}}</view>
+    <button bindtap='changeData'>刷新</button>
 </view>
